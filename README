@@ -1,0 +1,19 @@
+A.
+00000000004004b4 T _Z7averagePdRd
+00000000004004e2 T _Z7averageif
+
+B.
+output:
+1 8
+4 8
+4 8
+8 8
+
+a computer uses 1 byte to hold a character,
+4 bytes for integers and floating points,
+8 bytes for double floating points
+for every pointer, or address of variables,
+it uses 8 bytes to represent the number.
+
+
+
